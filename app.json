@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "07-app-features-palacios",
-    "slug": "07-app-features-palacios",
+    "name": "07-app-camera-palacios",
+    "slug": "07-app-camera-palacios",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,16 +11,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "plugins": [
-      [
-        "expo-media-library",
-        {
-          "photosPermission": "Allow $(PRODUCT_NAME) to access your photos.",
-          "savePhotosPermission": "Allow $(PRODUCT_NAME) to save photos.",
-          "isAccessMediaLocationEnabled": "true"
-        }
-      ]
-    ],
     "assetBundlePatterns": [
       "**/*"
     ],

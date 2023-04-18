@@ -1,5 +1,5 @@
 {
-  "name": "07-app-features-palacios",
+  "name": "07-app-camera-palacios",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,13 +9,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~48.0.10",
+    "expo": "~48.0.11",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.6",
-    "expo-sharing": "~11.2.2",
-    "expo-media-library": "~15.2.3",
-    "expo-camera": "~13.2.1"
+    "react-native": "0.71.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
